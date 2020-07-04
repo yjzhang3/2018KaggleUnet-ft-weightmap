@@ -1,4 +1,4 @@
-# 2018KaggleUnet_ft.weightmap
+Cell image segmentation weight map construction for UNet. 
 
 Combining ideas from https://www.youtube.com/watch?v=cUHPL_dk17E&list=PLZsOBAyNTZwYuFfht61R0b-N1TNIX5_Vy&index=7 and 
 https://jaidevd.github.io/posts/weighted-loss-functions-for-instance-segmentation/
