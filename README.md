@@ -1,6 +1,6 @@
 # 2018KaggleUnet ft.weightmap
 
-Cell image segmentation weight map construction for UNet. 
+Cell image segmentation weight map construction for UNet. This is part of my undergraduate research project in Sgro Lab at Boston University. Thanks to Dr. Sgro and Chuqiao for generous help and mentorship!
 
 Combining ideas from https://www.youtube.com/watch?v=cUHPL_dk17E&list=PLZsOBAyNTZwYuFfht61R0b-N1TNIX5_Vy&index=7 and 
 https://jaidevd.github.io/posts/weighted-loss-functions-for-instance-segmentation/
